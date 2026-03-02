@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anurag405-max
 - 👀 I’m interested in creating games 
-- 🌱 I’m currently learning programming. Mainly python and pygame. Soon I will also learn more languages. 
 - 📫 I live in India. 
 - ⚡ Fun fact: Hello
 
