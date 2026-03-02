@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Anurag405-max
-- 👀 I’m interested in creating games 
 - 📫 I live in India. 
 - ⚡ Fun fact: Hello
 
